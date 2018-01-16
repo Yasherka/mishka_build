@@ -6,4 +6,4 @@
   <li>Retina</li>
 </ol>
 
-<a href="https://htmlacademy.ru/intensive/adaptive">html academy</a>
+<a href="https://htmlacademy.ru/intensive/adaptive">html academy with love</a>
